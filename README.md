@@ -15,3 +15,9 @@ Tailwind CSS plug-in. This will resolve being able to edit globals.css with Tail
 # layout.tsx 
 
 All the child components will are wrapped around shadcn 
+
+
+### Contributions 
+Callum Bir @gocallum on GitHub 
+
+
